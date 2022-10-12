@@ -12,6 +12,12 @@ Notas: Este mapa debe de ser creado en un mundo vanilla, y tiene que cumplir con
 
 - Pack de comportamientos: Opcionales
 
+## Pasos:
+
+[Bloques de comando](https://www.github.com "Documentacion")
+
+
+
 
 
 
