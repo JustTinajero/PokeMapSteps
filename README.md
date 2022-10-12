@@ -14,7 +14,7 @@ Notas: Este mapa debe de ser creado en un mundo vanilla, y tiene que cumplir con
 
 ## Pasos:
 
-[Bloques de comando](https://www.github.com "Documentacion")
+[Bloques de comando](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md "Documentacion")
 
 
 
