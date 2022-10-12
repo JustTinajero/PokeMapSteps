@@ -4,13 +4,13 @@ Todos los pasos para construir un sistema de lobby y efectos visuales.
 
 ### Indice:
 
-[Delimitacion](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-1 "Atajo al paso 1")
+[Delimitacion](https://github.com/JustTinajero/PokeMapSteps/edit/main/commandblocks.md#paso-1-delimitacion "Atajo al paso 1")
 
-[Borde del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-2 "Atajo al paso 2")
+[Borde del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-2-lobby-border "Atajo al paso 2")
 
-[Proteccion del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-3 "Atajo al paso 3")
+[Proteccion del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-3-lobby-protection "Atajo al paso 3")
 
-[Anti spawn de mobs](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-4 "Atajo al paso 4")
+[Anti spawn de mobs](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-4-anti-mob-griefing "Atajo al paso 4")
 
 [Paso 5](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-5 "Atajo al paso 5")
 
@@ -33,7 +33,7 @@ Una vez delimitado el cuadro, hay que rellenar las lineas que marcan la delimita
 
 Una ves marcado el borde del lobby, hay que rellenar el interior por la misma capa de bedrock con bloques deny, para que no tengan permitido colocar o romper bloques del mismo, para esto utlizaremos el comando /fill, de la siguiente forma, "/fill x y z x y z deny" las primeras coordenadas son de una esquina de la delimitacion, y las segundas la esquina opuesta, con esto ya deberia haber un cuadrado marcado con las lineas exteriores con bloques border.
 
-#### Paso 4:
+#### Paso 4: Anti Mob Griefing
 
 Para evitar el spawn de mobs, y que este este habilitado en otras zonas del mapa, como excluyendo el lobby, hay que teletransportar las entidades que no sean jugadores u npcs a una zona, y matarlos ahi mismo, para que no influya el drop de estos mobs en el lobby.
 
