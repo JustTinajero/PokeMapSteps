@@ -16,7 +16,7 @@ Todos los pasos para construir un sistema de lobby y efectos visuales.
 
 [Paso 6](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-6 "Atajo al paso 6")
 
-### Proteccion de Lobby:
+## Proteccion de Lobby:
 Para esto es necesario utilizar unos cuantos comandos y delimitr la zona del lobby.
 
 Los comandos que se usaran son: /fill y /give
