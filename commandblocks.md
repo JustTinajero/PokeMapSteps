@@ -2,6 +2,20 @@
 
 Todos los pasos para construir un sistema de lobby y efectos visuales.
 
+Indice:
+
+[Delimitacion](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-1 "Atajo al paso 1")
+
+[Borde del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-2 "Atajo al paso 2")
+
+[Proteccion del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-3 "Atajo al paso 3")
+
+[Anti spawn de mobs](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-4 "Atajo al paso 4")
+
+[Paso 5](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-5 "Atajo al paso 5")
+
+[Paso 6](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-6 "Atajo al paso 6")
+
 ### Proteccion de Lobby:
 Para esto es necesario utilizar unos cuantos comandos y delimitr la zona del lobby.
 
