@@ -4,7 +4,7 @@ Todos los pasos para construir un sistema de lobby y efectos visuales.
 
 ### Indice:
 
-[Delimitacion](https://github.com/JustTinajero/PokeMapSteps/edit/main/commandblocks.md#paso-1-delimitacion "Atajo al paso 1")
+[Delimitacion](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-1-delimitacion "Atajo al paso 1")
 
 [Borde del lobby](https://github.com/JustTinajero/PokeMapSteps/blob/main/commandblocks.md#paso-2-lobby-border "Atajo al paso 2")
 
