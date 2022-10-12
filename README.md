@@ -6,6 +6,12 @@ Notas: Este mapa debe de ser creado en un mundo vanilla, y tiene que cumplir con
 
 - Modo experimental: Funciones del creador de dias festivos, Proximas caracteristicas del creador, Entorno de trabajo GameTest y Caracteristicas de Molang.
 
+- Trucos: Activar trucos.
+
+- Pack de recursos: Opcionales
+
+- Pack de comportamientos: Opcionales
+
 
 
 
